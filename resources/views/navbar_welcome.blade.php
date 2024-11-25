@@ -32,7 +32,7 @@
                 <div class="hidden lg:flex lg:items-center lg:justify-center lg:space-x-10" id="menu-links">
                     <a href="#home" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Dahsboard </a>
                     <a href="#demo" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Demo </a>
-                    <a href="#" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Product </a>
+                    <a href="#product" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Product </a>
                     <a href="#contact" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Contact </a>
                 </div>
     

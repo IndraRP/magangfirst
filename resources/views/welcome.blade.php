@@ -186,7 +186,7 @@
 
 
 
-    <section id="#product" class="pb-12 bg-white sm:py-16 lg:pb-20">
+    <section id="product" class="pb-12 bg-white sm:py-16 lg:pb-20">
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
             <div class="max-w-md mx-auto text-center">
                 <h2 class="text-4xl font-bold text-gray-900 sm:text-5xl">Our product items</h2>
