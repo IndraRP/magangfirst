@@ -4,7 +4,7 @@
     "start_url": "/",
     "background_color": "#ffffff",
     "description": "Tugas PWA Burningroom",
-    "display": "fullscreen",
+    "display": "standalone",
     "theme_color": "#ffffff",
     "icons": [
         {
