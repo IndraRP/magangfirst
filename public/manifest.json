@@ -1,14 +1,14 @@
 {
     "name": "Indra PWA",
     "short_name": "Indra PWA",
-    "start_url": "https://pkl_indra_01_11-2024.burningroom.co.id/",
+    "start_url": "/",
     "background_color": "#ffffff",
     "description": "Tugas PWA Burningroom",
     "display": "fullscreen",
-    "theme_color": "ffffff",
+    "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "logo.PNG",
+            "src": "logo.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
