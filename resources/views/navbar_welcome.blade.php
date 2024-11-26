@@ -30,7 +30,7 @@
     
                 <!-- Menu links (hidden by default on mobile) -->
                 <div class="hidden lg:flex lg:items-center lg:justify-center lg:space-x-10" id="menu-links">
-                    <a href="#home" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Dahsboard </a>
+                    <a href="#home" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Dashboard1 </a>
                     <a href="#demo" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Demo </a>
                     <a href="#product" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Product </a>
                     <a href="#contact" title="" class="text-base text-black transition-all duration-200 hover:text-opacity-80"> Contact </a>
@@ -51,7 +51,7 @@
             </button>
         </div>
         <div class="flex flex-col items-center space-y-6 p-6">
-            <a href="#home" title="" class="text-2xl text-white transition-all duration-200 hover:text-opacity-80"> Dashboard </a>
+            <a href="#home" title="" class="text-2xl text-white transition-all duration-200 hover:text-opacity-80"> Dashboard1 </a>
             <a href="#demo" title="" class="text-2xl text-white transition-all duration-200 hover:text-opacity-80"> Demo </a>
             <a href="#product" title="" class="text-2xl text-white transition-all duration-200 hover:text-opacity-80"> Product </a>
             <a href="#contact" title="" class="text-2xl text-white transition-all duration-200 hover:text-opacity-80"> Contact </a>
