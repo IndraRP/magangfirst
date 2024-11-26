@@ -91,7 +91,7 @@ class UserController extends Controller
         // Redirect setelah berhasil update
         return redirect()->route('users.index')->with('success', 'User updated successfully.');
     }
-    
+
 
     /**
      * Hapus pengguna dari database.
